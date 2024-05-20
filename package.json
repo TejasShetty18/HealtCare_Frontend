@@ -5,7 +5,7 @@
   "description": "",
   "main": "config.js",
   "scripts": {
-    "start-backend": "nodemon app.js"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
